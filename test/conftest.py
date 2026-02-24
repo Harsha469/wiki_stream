@@ -79,3 +79,6 @@ def session(db):
     yield db.session
 
     db.session.rollback()
+
+
+'''this is oneline for conftest'''
