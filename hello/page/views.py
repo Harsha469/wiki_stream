@@ -16,6 +16,3 @@ def home():
         python_ver=os.environ["PYTHON_VERSION"],
         debug=DEBUG,
     )
-
-
-'''hello everyone'''
